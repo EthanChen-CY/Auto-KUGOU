@@ -1,7 +1,7 @@
 name: 签到
 on:
   schedule:
-    - cron: "00 1 * * *"
+    - cron: "07 2 * * *"
       timezone: "Asia/Shanghai"
 permissions:
   contents: read
